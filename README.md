@@ -26,9 +26,8 @@ To create a trusted and tamper-proof registry for medical imaging reports where:
 - **Functions**:
   - `upload_report(doctor, patient, report_url)` — Uploads a new imaging report.
   - `view_report(requester, doctor_address)` — Allows a patient to view their report if authorized.
-- **Contract Address**: `0x<your_contract_address_here>`
+- **Contract Address**: `0x59ab37cd2507dddc15482efe39e441df5220b0bdcc024dcea3414d9d52b1d00captos`
 
-> `0x59ab37cd2507dddc15482efe39e441df5220b0bdcc024dcea3414d9d52b1d00captos`
 > 
 > ```bash
 > aptos account show --profile default
